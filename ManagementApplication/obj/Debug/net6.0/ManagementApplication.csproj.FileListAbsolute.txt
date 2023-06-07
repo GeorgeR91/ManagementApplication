@@ -1,0 +1,15 @@
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\bin\Debug\net6.0\ManagementApplication.exe
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\bin\Debug\net6.0\ManagementApplication.deps.json
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\bin\Debug\net6.0\ManagementApplication.runtimeconfig.json
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\bin\Debug\net6.0\ManagementApplication.dll
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\bin\Debug\net6.0\ManagementApplication.pdb
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ManagementApplication.csproj.AssemblyReference.cache
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ManagementApplication.AssemblyInfoInputs.cache
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ManagementApplication.AssemblyInfo.cs
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ManagementApplication.dll
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\refint\ManagementApplication.dll
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ManagementApplication.pdb
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ManagementApplication.genruntimeconfig.cache
+C:\Users\grell\source\repos\CodingFactory3\ManagementApplication\obj\Debug\net6.0\ref\ManagementApplication.dll
